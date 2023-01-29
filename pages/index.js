@@ -56,7 +56,6 @@ if (typeof window !== "undefined") {
 }
 
 export default function Home() {
-
   return (
     <>
       <Head>
@@ -100,7 +99,7 @@ export default function Home() {
           <motion.a
             variants={item}
             href="/Certiword.pdf"
-            className="group flex w-fit items-center gap-x-2 rounded bg-slate-50 px-2 py-1 xl:ml-28 xl:hover:scale-105 xl:hover:transition-transform xl:hover:duration-300"
+            className="group mb-14 flex w-fit items-center gap-x-2 rounded bg-slate-50 px-2 py-1 sm:mb-0 xl:ml-28 xl:hover:scale-105 xl:hover:transition-transform xl:hover:duration-300"
           >
             <DocumentIcon className="h-7 w-7 stroke-black group-hover:stroke-[#eba91a]" />
             <p className="font-medium uppercase text-black">my cv</p>

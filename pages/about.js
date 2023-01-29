@@ -128,7 +128,7 @@ export default function About() {
                   <AcademicCapIcon className="h-8 w-8 shrink-0 stroke-white xl:group-hover:stroke-[#ffb617]" />
                   <div className="space-x-3">
                     <span>2020:</span>
-                    <span>Bacalauriat science physique</span>
+                    <span>BAC SCIENCES PHYSIQUES</span>
                   </div>
                 </motion.div>
                 <motion.div
@@ -137,8 +137,8 @@ export default function About() {
                 >
                   <AcademicCapIcon className="h-8 w-8 shrink-0 stroke-white xl:group-hover:stroke-[#ffb617]" />
                   <div className="space-x-3">
-                    <span>2021:</span>
-                    <span>bac+1 faculte ibn zohr</span>
+                    <span>2020 - 2021:</span>
+                    <span>BAC+1 EN GÉOLOGIE</span>
                   </div>
                 </motion.div>
                 <motion.div
@@ -147,8 +147,8 @@ export default function About() {
                 >
                   <AcademicCapIcon className="h-8 w-8 shrink-0 stroke-white xl:group-hover:stroke-[#ffb617]" />
                   <div className="space-x-3">
-                    <span>2022 - 2024:</span>
-                    <span>technicien specialise, developpement web</span>
+                    <span>2021 - À CE JOUR:</span>
+                    <span>Étudiant Deuxième année Développement Digital</span>
                   </div>
                 </motion.div>
                 {/* CV & Cirtificates */}
