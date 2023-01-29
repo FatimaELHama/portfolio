@@ -59,8 +59,9 @@ export default function Contact() {
         </motion.div>
         <motion.div variants={item} className="mb-24">
           <form
-            action="https://getform.io/f/0297da96-566c-4232-95b6-ab552d5ddbe0"
             className="flex flex-col items-center space-y-4 sm:items-start"
+            action="https://getform.io/f/0297da96-566c-4232-95b6-ab552d5ddbe0"
+            method="POST"
           >
             <div className="flex flex-col gap-y-1">
               <label htmlFor="name" className="capitalize">
