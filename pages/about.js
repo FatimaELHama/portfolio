@@ -87,18 +87,13 @@ export default function About() {
                 className="space-y-4 text-sm xl:max-w-md"
               >
                 <motion.p>
-                  Lorem ipsum dolor sit amet consectetur adipisicing elit.
-                  Debitis vel minus alias libero obcaecati nemo enim nisi
-                  perspiciatis distinctio impedit voluptatum possimus, in
-                  dignissimos ipsum sequi molestiae necessitatibus delectus
-                  aliquid?
+                Hello! i'm Fatima, I'm a Full-stack web developer from Morocco with ability to learn and collaborate on rapidly changing environments.
+                Eager to tackle web development challenges to achieve lasting impacts on user experience.
                 </motion.p>
                 <motion.p>
-                  Lorem ipsum dolor sit amet consectetur adipisicing elit.
-                  Debitis vel minus alias libero obcaecati nemo enim nisi
-                  perspiciatis distinctio impedit voluptatum possimus, in
-                  dignissimos ipsum sequi molestiae necessitatibus delectus
-                  aliquid?
+                I am ambitious and driven and I constantly set goals for myself, so I have something to strive towards. and I am highly organised.
+                I always take notes, and I use a series of tools to help myself stay on top of deadlines.
+                I love meeting new people and learning about their lives and their backgrounds and making them feel comfortable in my presence.
                 </motion.p>
               </motion.div>
             </motion.div>
@@ -157,7 +152,7 @@ export default function About() {
                   className="flex gap-x-4 pt-4 xl:gap-x-6"
                 >
                   <a
-                    href="/Certiword.pdf"
+                    href="/cv.pdf"
                     className="group flex w-fit items-center gap-x-2 rounded bg-slate-50 px-2 py-1 xl:hover:scale-105 xl:hover:transition-transform xl:hover:duration-300"
                   >
                     <DocumentIcon className="h-5 w-5 stroke-black group-hover:stroke-[#eba91a]" />
