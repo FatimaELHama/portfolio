@@ -142,8 +142,8 @@ export default function About() {
                 >
                   <AcademicCapIcon className="h-8 w-8 shrink-0 stroke-white xl:group-hover:stroke-[#ffb617]" />
                   <div className="space-x-3">
-                    <span>2021 - À CE JOUR:</span>
-                    <span>Étudiant Deuxième année Développement Digital</span>
+                    <span>2021 - 2023:</span>
+                    <span>Deux ans dans le centre mixte de formation professionnel filière Développement Digital option Web Full Stack</span>
                   </div>
                 </motion.div>
                 {/* CV & Cirtificates */}
